@@ -1,0 +1,23 @@
+.navbar-container{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;  
+    padding-top: 10px;
+    padding-left: 50px;
+    
+}
+ul{
+    list-style-type: none;
+    display: inline-block;
+}
+.navbar-nav{
+    font-size: 18px;
+}
+
+
+.navbar a{
+    font-size:18px;
+    color: black;
+    padding-right:15px;
+    text-decoration: underline solid 2px #2CD889;
+}

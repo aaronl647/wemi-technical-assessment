@@ -1,0 +1,32 @@
+
+.form-group{
+    padding-top: 50px;
+    font-size: 18px;
+}
+input[type=text] {
+    border: none;
+    color: #646D82;
+    text-align: center;
+    border-bottom: 2px solid #DDDDDD;
+  }
+  input[type=date] {
+    border: none;
+    color: #646D82;
+    text-align: center;
+    border-bottom: 2px solid #DDDDDD;
+  }
+
+
+  .button {
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
